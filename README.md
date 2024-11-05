@@ -1,6 +1,12 @@
 # Hi there, I'm Zobir Ofkir 👋
 
-Welcome to my GitHub profile! I'm a passionate web developer with a strong focus on backend and frontend technologies. I have 4 years of experience in freelancing and am currently exploring opportunities to work with a company. Feel free to check out my portfolio and get in touch!
+Greetings, I am Zobir Ofkir, a web developer , I’ve completed numerous web development projects, both front-end and back-end. I manage such technologies as: HTML, CSS, JavaScript, PHP, Laravel, React and database management.
+
+As I appreciate the goals and objectives of the clients, I deliver the websites that are not only creative but also functional. If you need a unique website design, a website that works on various devices, or design and development of a web application, I can do it.
+
+My work experience is available on my personal website zobirofkir.com since I would be pleased to have a look into my work portfolio.
+
+
 
 ## 🚀 About Me
 
