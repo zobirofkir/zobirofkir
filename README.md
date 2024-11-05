@@ -47,10 +47,10 @@ Here are some of the projects I'm working on or have worked on:
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 📊 My GitHub Activity
+## 📊 My Website
 
-![Zobir's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zobirofkir&bg_color=ffffff&color=000000&line=000000&point=000000&area=true)
+![Zobir's GitHub Activity Graph](https://zobirofkir.com)
 
-Feel free to explore my repositories and reach out if you have any questions or opportunities to collaborate!
+Please feel free to explore my website.
 
 <!-- Thanks for visiting! -->
