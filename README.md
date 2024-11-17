@@ -34,7 +34,7 @@ Here are some of the projects I'm working on or have worked on:
 
 - 🌐 [Portfolio](https://zobirofkir.com)
 - 📧 [Email](mailto:zobirofkir19@gmail.com)
-- 📞 [Phone](tel:+212619920942)
+- 📞 0619920942
 
 ## 📚 GitHub Stats
 
