@@ -1,56 +1,81 @@
-# Hi there, I'm Zobir Ofkir 👋
+# 👋 Hi there, I'm Zobir Ofkir
 
-Greetings, I am Zobir Ofkir, a web developer , I’ve completed numerous web development projects, both front-end and back-end. I manage such technologies as: HTML, CSS, JavaScript, PHP, Laravel, React and database management.
+I'm **Zobir Ofkir**, a passionate **Full-Stack Web Developer (Laravel, React.js & Next.js)** from **Imouzer Kandar, Morocco** 🇲🇦.  
+Since 2020, I’ve been crafting modern, responsive, and scalable web applications that merge creativity with strong technical performance.
 
-As I appreciate the goals and objectives of the clients, I deliver the websites that are not only creative but also functional. If you need a unique website design, a website that works on various devices, or design and development of a web application, I can do it.
+I focus on building clean, functional, and maintainable projects — from front-end interfaces to powerful back-end systems.  
+If you’re looking for a developer who brings both design sense and technical depth, you’re in the right place.
 
-My work experience is available on my personal website zobirofkir.com since I would be pleased to have a look into my work portfolio.
-
-
+---
 
 ## 🚀 About Me
 
-- 🌍 Based in Imouzer Kandar, Morocco.
-- 💼 Currently looking for a company to work with.
-- 💻 Proficient in Laravel and React.js for web development.
-- 🔧 Skilled in Tailwind CSS for modern and responsive designs.
-- 📅 20 years old and always eager to learn new technologies.
+- 🌍 **Location:** Imouzer Kandar, Morocco  
+- 💼 **Status (2025):** Open to new work opportunities & freelance projects  
+- 💻 **Main Stack:** Laravel, React.js, Next.js, Tailwind CSS, REST APIs  
+- 🔧 **Tools:** Docker, Git, VS Code, Figma, Postman  
+- 📅 **Age:** 21 years old and continuously learning  
+- 🎯 **Focus in 2025:** SaaS apps, admin dashboards, and API-driven systems  
 
-## 💼 My Projects
+---
 
-Here are some of the projects I'm working on or have worked on:
+## 💼 Featured Projects (2025)
 
-- [SourceDart](#): A CMS project for editing static websites with full control.
-- [Web App for User Management](#): A React and Laravel web app with Spatie permissions.
+- 🧩 **Pixcoders Platform** — A full SaaS platform for showcasing creative services and managing client projects.  
+- 👥 **UserFlow Manager** — A complete Laravel + React system for user roles, permissions, and analytics dashboards.  
+- 🏪 **E-Commerce Admin Pro** — A responsive e-commerce dashboard with dynamic product and order management.  
+- 📰 **Blogify CMS** — A custom CMS built with Laravel, React, and Quill editor for content creation.  
+- ⚡ **NextDash** — A modern dashboard template built with **Next.js** and **Tailwind CSS**, optimized for performance.  
 
-## 📂 My Skills
+> More live demos and repositories are available on my GitHub and portfolio below.
 
-- **Frontend:** React.js, Tailwind CSS, Bootstrap 5
-- **Backend:** Laravel, API Development
-- **Database:** MySQL
-- **Other:** Git, Docker, Quill Editor
+---
+
+## 🧰 Tech Stack
+
+**Frontend:**  
+Next.js · React.js · Tailwind CSS · Bootstrap 5  
+
+**Backend:**  
+Laravel · PHP 8 · RESTful APIs  
+
+**Database:**  
+MySQL  
+
+**Tools & Others:**  
+Git · Docker · Quill Editor · Figma · Postman  
+
+---
+
+## 📊 GitHub Stats
+
+![Zobir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zobirofkir&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zobirofkir&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🛠️ Technologies & Frameworks
+
+![Laravel](https://img.shields.io/badge/Laravel-F05032?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
 
 ## 🔗 Connect with Me
 
-- 🌐 [Portfolio](https://www.pixcoders.dev/)
-- 📧 [Email](mailto:zobirofkir19@gmail.com)
-- 📞 0619920942
+- 🌐 **Portfolio:** [https://www.pixcoders.dev](https://www.pixcoders.dev)  
+- 📧 **Email:** [zobirofkir19@gmail.com](mailto:zobirofkir19@gmail.com)  
+- 📱 **Phone:** +212 619 920 942  
+- 💬 **LinkedIn:** [linkedin.com/in/zobirofkir](https://linkedin.com/in/zobirofkir)
 
-## 📚 GitHub Stats
+---
 
-![Zobir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zobirofkir&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true&theme=tokyonight)
+> _"Code with creativity. Build with purpose. Deliver with passion."_  
+> — **Zobir Ofkir**
 
-## 🛠️ Tools & Technologies
-
-- ![Laravel](https://img.shields.io/badge/Laravel-F05032?style=for-the-badge&logo=laravel&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-## 📊 My Website
-
-![Zobir's GitHub Activity Graph](https://zobirofkir.com)
-
-Please feel free to explore my website.
-
-<!-- Thanks for visiting! -->
+<!-- Thanks for visiting my GitHub profile! -->
