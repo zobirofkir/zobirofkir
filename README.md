@@ -32,7 +32,7 @@ Here are some of the projects I'm working on or have worked on:
 
 ## 🔗 Connect with Me
 
-- 🌐 [Portfolio](https://zobirofkir.com)
+- 🌐 [Portfolio](https://www.pixcoders.dev/)
 - 📧 [Email](mailto:zobirofkir19@gmail.com)
 - 📞 0619920942
 
