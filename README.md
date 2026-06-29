@@ -137,15 +137,38 @@ Next.js · Laravel · Tailwind CSS · WordPress
 
 ---
 
-## GitHub Stats
+## Products && Platforms
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zobirofkir&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Zobir Ofkir GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobirofkir&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>LeadsCrux</h3>
+      <p>
+        A SaaS CRM platform built for marketing agencies to manage leads, pipelines, team members, activities, and Google Sheets integrations.
+      </p>
+      <p>
+        <strong>Tech Stack:</strong><br />
+        Laravel · Next.js · React.js · MySQL · REST APIs · Google Sheets API · GitHub Actions · CI/CD
+      </p>
+      <p>
+        <a href="https://leadscrux.com">Visit Website</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>PixCoders</h3>
+      <p>
+        A professional web development agency platform focused on websites, SaaS products, dashboards, and client-focused digital solutions.
+      </p>
+      <p>
+        <strong>Tech Stack:</strong><br />
+        Next.js · React.js · Tailwind CSS · Modern UI · Responsive Design
+      </p>
+      <p>
+        <a href="https://www.pixcoders.dev">Visit Website</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
