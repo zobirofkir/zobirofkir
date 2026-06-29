@@ -1,81 +1,168 @@
-# 👋 Hi there, I'm Zobir Ofkir
+<h1 align="center">Hi, I'm Zobir Ofkir 👋</h1>
 
-I'm **Zobir Ofkir**, a passionate **Full-Stack Web Developer (Laravel, React.js & Next.js)** from **Imouzer Kandar, Morocco** 🇲🇦.  
-Since 2020, I’ve been crafting modern, responsive, and scalable web applications that merge creativity with strong technical performance.
+<p align="center">
+  <strong>Full-Stack Web Developer</strong> building modern, scalable, and business-focused web applications.
+</p>
 
-I focus on building clean, functional, and maintainable projects — from front-end interfaces to powerful back-end systems.  
-If you’re looking for a developer who brings both design sense and technical depth, you’re in the right place.
+<p align="center">
+  Laravel · React.js · Next.js · Tailwind CSS · REST APIs · MySQL · System Design · CI/CD
+</p>
 
----
-
-## 🚀 About Me
-
-- 🌍 **Location:** Imouzer Kandar, Morocco  
-- 💼 **Status (2025):** Open to new work opportunities & freelance projects  
-- 💻 **Main Stack:** Laravel, React.js, Next.js, Tailwind CSS, REST APIs  
-- 🔧 **Tools:** Docker, Git, VS Code, Figma, Postman  
-- 📅 **Age:** 21 years old and continuously learning  
-- 🎯 **Focus in 2025:** SaaS apps, admin dashboards, and API-driven systems  
+<p align="center">
+  <a href="https://www.pixcoders.dev">Portfolio</a> ·
+  <a href="https://leadscrux.com">LeadsCrux</a> ·
+  <a href="mailto:zobirofkir19@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/zobirofkir">LinkedIn</a>
+</p>
 
 ---
 
-## 💼 Featured Projects (2025)
+## About Me
 
-- 🧩 **Pixcoders Platform** — A full SaaS platform for showcasing creative services and managing client projects.  
-- 👥 **UserFlow Manager** — A complete Laravel + React system for user roles, permissions, and analytics dashboards.  
-- 🏪 **E-Commerce Admin Pro** — A responsive e-commerce dashboard with dynamic product and order management.  
-- 📰 **Blogify CMS** — A custom CMS built with Laravel, React, and Quill editor for content creation.  
-- ⚡ **NextDash** — A modern dashboard template built with **Next.js** and **Tailwind CSS**, optimized for performance.  
+I'm **Zobir Ofkir**, a Full-Stack Web Developer from **Morocco** 🇲🇦.
 
-> More live demos and repositories are available on my GitHub and portfolio below.
+I help startups, agencies, and businesses build clean, responsive, and production-ready web platforms — from landing pages and dashboards to SaaS applications, CRM systems, and custom admin panels.
+
+I focus on clean code, scalable architecture, smooth user experience, and reliable deployment workflows.
 
 ---
 
-## 🧰 Tech Stack
+## What I Do
 
-**Frontend:**  
-Next.js · React.js · Tailwind CSS · Bootstrap 5  
-
-**Backend:**  
-Laravel · PHP 8 · RESTful APIs  
-
-**Database:**  
-MySQL  
-
-**Tools & Others:**  
-Git · Docker · Quill Editor · Figma · Postman  
+* Build modern websites and web applications
+* Develop SaaS platforms and CRM systems
+* Create secure REST APIs and backend systems with Laravel
+* Build fast and responsive frontends with React.js and Next.js
+* Design scalable application architecture and database structures
+* Set up CI/CD pipelines and automated deployment workflows
+* Convert Figma designs into clean, production-ready interfaces
+* Deploy and maintain real-world business applications
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
-![Zobir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zobirofkir&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zobirofkir&layout=compact&theme=tokyonight&hide_border=true)
+### Frontend
 
----
+Next.js · React.js · Tailwind CSS · Bootstrap · Inertia.js
 
-## 🛠️ Technologies & Frameworks
+### Backend
 
-![Laravel](https://img.shields.io/badge/Laravel-F05032?style=for-the-badge&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+Laravel · PHP · REST APIs · Authentication · Role & Permission Systems
 
----
+### Database
 
-## 🔗 Connect with Me
+MySQL · Database Design · Migrations · Query Optimization
 
-- 🌐 **Portfolio:** [https://www.pixcoders.dev](https://www.pixcoders.dev)  
-- 📧 **Email:** [zobirofkir19@gmail.com](mailto:zobirofkir19@gmail.com)  
-- 📱 **Phone:** +212 619 920 942  
-- 💬 **LinkedIn:** [linkedin.com/in/zobirofkir](https://linkedin.com/in/zobirofkir)
+### Architecture & DevOps
+
+System Design · CI/CD · GitHub Actions · Deployment Workflows · Linux Servers
+
+### Tools
+
+Git · GitHub · Docker · Postman · Figma · VS Code · Linux
 
 ---
 
-> _"Code with creativity. Build with purpose. Deliver with passion."_  
-> — **Zobir Ofkir**
+## Featured Work
 
-<!-- Thanks for visiting my GitHub profile! -->
+### LeadsCrux — SaaS CRM for Marketing Agencies
+
+**LeadsCrux** is a SaaS platform built for marketing agencies to manage the full journey from ads to leads to clients.
+
+It helps agencies capture leads, organize pipelines, assign team members, track activities, and connect with external tools like Google Sheets.
+
+**Main Features:**
+
+* Lead management system
+* Custom sales pipelines
+* Team members and roles
+* Organization-based workspace
+* Lead activity tracking
+* Google Sheets integration
+* API-driven architecture
+* Automated deployment with CI/CD
+
+**Tech Stack:**
+Laravel · Next.js · React.js · MySQL · REST APIs · Google Sheets API · GitHub Actions · CI/CD
+
+**Website:** [leadscrux.com](https://leadscrux.com)
+
+---
+
+### PixCoders
+
+A professional agency platform for presenting services, portfolio projects, and client-focused web solutions.
+
+**Tech Stack:**
+Next.js · React.js · Tailwind CSS
+
+**Website:** [pixcoders.dev](https://www.pixcoders.dev)
+
+---
+
+### Admin Dashboards & CRM Systems
+
+Custom dashboards for managing users, leads, roles, permissions, analytics, and business workflows.
+
+**Tech Stack:**
+Laravel · React.js · Inertia.js · MySQL · System Design
+
+---
+
+### Business Websites
+
+Modern, responsive websites for companies, clinics, agencies, hotels, and service-based businesses.
+
+**Tech Stack:**
+Next.js · Laravel · Tailwind CSS · WordPress
+
+---
+
+## Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zobirofkir&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Zobir Ofkir GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobirofkir&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## Let's Work Together
+
+I'm open to freelance projects, remote opportunities, and collaborations with agencies or companies.
+
+If you need a developer who can turn ideas into clean, functional, scalable, and production-ready products, feel free to contact me.
+
+* Portfolio: [pixcoders.dev](https://www.pixcoders.dev)
+* Product: [leadscrux.com](https://leadscrux.com)
+* Email: [zobirofkir19@gmail.com](mailto:zobirofkir19@gmail.com)
+* LinkedIn: [linkedin.com/in/zobirofkir](https://linkedin.com/in/zobirofkir)
+* Phone: [+212 619 920 942](tel:+212619920942)
+
+---
+
+<p align="center">
+  <em>Building clean digital products with purpose, performance, and attention to detail.</em>
+</p>
